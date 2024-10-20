@@ -29,8 +29,3 @@
     <a href="https://www.shopify.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/shopify.svg" alt="shopify" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=[your-github-username]&show_icons=true&locale=en&layout=compact" alt="[your-github-username]" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=[your-github-username]&show_icons=true&locale=en" alt="[your-github-username]" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=[your-github-username]&" alt="[your-github-username]" /></p>
