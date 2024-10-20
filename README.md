@@ -1,29 +1,13 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm Simon</h1>
 <h3 align="center">A passionate tech student & creative innovator from France</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=[your-github-username]&label=Profile%20views&color=0e75b6&style=flat" alt="[your-github-username]" /> </p>
-
-<p align="left"> <a href="https://github.com/[your-github-username]/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=[your-github-username]" alt="[your-github-username]" /></a> </p>
-
-- 🔭 I’m currently working on [Your Current Project](https://github.com/[your-github-username]/[your-current-project])
+- 🔭 I’m currently working on Vedere(https://github.com/vederefrance)
   
-- 🌱 I’m currently learning **Flutter, Deep Learning, and Data Structures & Algorithms**
+- 💬 Ask me about **App Development, Artificial Intelligence, and more!**
 
-- 👯 I’m looking to collaborate on **[Your Collaboration Project]**
+- 📫 How to reach me: **contact.simonfang@gmail.com**
 
-- 🤝 I’m looking for help with [Your Help Project](https://www.github.com/[your-github-username]/[your-help-project])
-
-- 👨‍💻 All of my projects are available at [GitHub](https://www.github.com/[your-github-username])
-
-- 📝 I regularly write articles on [Portfolio](https://[your-portfolio-url])
-
-- 💬 Ask me about **Mobile App Development, Artificial Intelligence, and more!**
-
-- 📫 How to reach me: **[your-email@example.com]**
-
-- 📄 Know about my experiences [Resume](https://github.com/[your-github-username]/[your-resume-file])
-
-- ⚡ Fun fact: **I enjoy hiking and photography!**
+- 🎸 Fun fact: **When I'm bored of life I play guitar**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
